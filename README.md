@@ -1,2 +1,2 @@
-# learning-demo
+# Larning purose only
 this is demo repository only.
